@@ -1,2 +1,2 @@
-line-bot-sdk
+Line Bot-sdk
 gunicorn
